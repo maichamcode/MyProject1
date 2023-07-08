@@ -1,0 +1,4 @@
+
+- npm i cho 2 folder: asm_nodejs và asm_reactjs
+- cd asm_reactjs -> npm run dev -> http://localhost:5173/admin
+- cd asm_nodejs -> npm run dev
